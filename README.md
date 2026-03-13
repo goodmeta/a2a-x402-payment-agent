@@ -105,7 +105,7 @@ Permits are **gasless** — the agent signs a typed message, not a transaction. 
 
 - Node.js 18+
 - A wallet with USDC on Base Sepolia (testnet)
-- Get testnet USDC from the [Base Sepolia faucet](https://faucet.coinbase.com/)
+- Get testnet USDC from the [Base Sepolia faucet](https://faucet.circle.com/)
 
 ### Setup
 
