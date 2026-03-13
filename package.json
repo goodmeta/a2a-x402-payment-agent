@@ -1,0 +1,25 @@
+{
+  "name": "@goodmeta/a2a-x402-payment-agent",
+  "version": "1.0.0",
+  "description": "An A2A agent that pays for x402-protected APIs on behalf of other agents",
+  "type": "module",
+  "scripts": {
+    "server": "tsx src/server/index.ts",
+    "client": "tsx src/client/demo.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@a2a-js/sdk": "^0.3.12",
+    "express": "^5.1.0",
+    "viem": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
