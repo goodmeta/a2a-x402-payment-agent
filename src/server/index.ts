@@ -29,7 +29,7 @@ const PORT = parseInt(process.env.PORT || "3000", 10);
 const PRIVATE_KEY = process.env.AGENT_PRIVATE_KEY as Hex | undefined;
 const CHAIN = (process.env.CHAIN || "base-sepolia") as "base" | "base-sepolia";
 const FACILITATOR_URL =
-  process.env.FACILITATOR_URL || "https://x402.stablecoin.xyz";
+  process.env.FACILITATOR_URL || "https://x402.goodmeta.co";
 
 if (!PRIVATE_KEY) {
   console.error(
