@@ -15,12 +15,12 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
-    "@types/node": "^22.0.0",
+    "@types/node": "^24.13.3",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=24.19.0"
   },
   "overrides": {
     "ws": "8.21.0"
