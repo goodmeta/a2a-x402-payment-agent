@@ -1,6 +1,7 @@
 {
   "name": "@goodmeta/a2a-x402-payment-agent",
   "version": "1.0.0",
+  "license": "Apache-2.0",
   "description": "An A2A agent that pays for x402-protected APIs on behalf of other agents",
   "type": "module",
   "scripts": {
