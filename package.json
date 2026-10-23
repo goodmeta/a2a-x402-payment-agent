@@ -11,19 +11,19 @@
   },
   "dependencies": {
     "@a2a-js/sdk": "0.3.14",
-    "express": "5.2.1",
-    "viem": "2.56.0"
+    "express": "5.3.0",
+    "viem": "2.57.4"
   },
   "devDependencies": {
     "@types/express": "5.0.6",
-    "@types/node": "24.13.3",
-    "tsx": "4.23.13",
+    "@types/node": "24.19.2",
+    "tsx": "4.23.15",
     "typescript": "7.0.2"
   },
   "engines": {
     "node": ">=18"
   },
   "overrides": {
-    "ws": "8.21.0"
+    "ws": "8.22.0"
   }
 }
